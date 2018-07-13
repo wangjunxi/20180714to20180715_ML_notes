@@ -1,2 +1,2 @@
-# wangjuni_001
-this is a description
+# 吴恩达ML视频笔记
+20180714至20180715,学习吴恩达机器学习视频笔记
